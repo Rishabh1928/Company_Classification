@@ -1,7 +1,8 @@
 # Company_Classification
-Company_Classification_Clustering Problem Statement : We are given with web scraped data of various businesses and companies. We need to somehow categorize these businesses and companies across a standard taxonomy (consists of term names and labels that are specific to an organization's information and unique to how that business operates). So that, business can leverage this information and target potential companies.  
 
-# Overview of DATASET
+We are given with web scraped data of various businesses and companies. We need to somehow categorize these businesses and companies across a standard taxonomy (consists of term names and labels that are specific to an organization's information and unique to how that business operates). So that, business can leverage this information and target potential companies.  
+
+## Overview of DATASET
 
 Website: The website of the company/business  
 
@@ -20,3 +21,12 @@ Navlink text: The visible titles of navigation links on the homepage (Ex: Home, 
 Meta keywords: The meta keywords in the header of the page html for SEO  
 
 Meta description: The meta description in the header of the page html for SEO
+
+## Approach to solve the problem
+
+1.	Dealing with missing values
+2.	Text preprocessing
+3.	Vectorization
+4.	Clustering
+5.	Labelling the Clusters
+6.	Check the distribution of clusters
