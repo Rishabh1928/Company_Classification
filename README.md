@@ -30,3 +30,6 @@ Meta description: The meta description in the header of the page html for SEO
 4.	Clustering
 5.	Labelling the Clusters
 6.	Check the distribution of clusters
+
+**All the necessary docs and notebook are uploaded**
+
